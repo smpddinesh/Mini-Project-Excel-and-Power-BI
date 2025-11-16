@@ -7,3 +7,4 @@ Highlighted cities and countries with the most job opportunities.
 Extracted most demanded skills like SQL, Python, Power BI, Excel, Machine Learning.
 Analyzed salary trends across job titles and locations.
 Showed top hiring companies and market competition levels.
+Created a fully interactive dashboard enabling HR teams, job seekers, and analysts to explore data job trends, skill demand, and hiring patterns. Helped improve decision-making for career planning and recruitment strategies.
